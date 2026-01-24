@@ -4,9 +4,7 @@
 
 <h3 align="center">🚀 Full-Stack Software Developer | Tech Explorer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=BTech+Student;Full+Stack+Developer;Cybersecurity+Learner;Cloud+%26+Blockchain+Enthusiast;Always+Learning+🔥&center=true&width=600&height=45">
-</p>
+
 
 ---
 
