@@ -16,7 +16,7 @@ Hey! I'm **Bhavik**, a passionate **BTech student & full-stack developer** who l
 🔐 Currently diving deeper into **software development, cybersecurity concepts, cloud computing, and blockchain fundamentals**.  
 📚 Strong believer in *learning by building* and *breaking things to understand them better*.
 
-📫 **Reach me at:** `bhavikratnottr071@gmail.com`
+📫 **Reach me at:** `bhavikratnottar071@gmail.com`
 
 ---
 
