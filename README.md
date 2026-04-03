@@ -69,7 +69,7 @@ Hey! I'm **Bhavik**, a passionate **BTech student & full-stack developer** who l
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhavik-gitt&theme=onedark&row=1&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhavik-gitt&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </p>
 
 ---
