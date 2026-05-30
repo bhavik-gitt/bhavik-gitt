@@ -29,9 +29,9 @@ Hey! I'm **Bhavik**, a passionate **BTech student & full-stack developer** who l
   <a href="https://dev.to/bhavik_ratnottar_b905d242" target="_blank">
     <img src="https://skillicons.dev/icons?i=devto" />
   </a>
-  <a href="https://leetcode.com/u/bhavikratnottar071/" target="_blank">
+  <!-- <a href="https://leetcode.com/u/bhavikratnottar071/" target="_blank">
     <img src="https://skillicons.dev/icons?i=leetcode" />
-  </a>
+  </a> -->
   <a href="https://www.geeksforgeeks.org/profile/bhavikgfg" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" />
   </a>
